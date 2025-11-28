@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632660716164",
+    "project_id": "misionfiesta-22d46",
+    "storage_bucket": "misionfiesta-22d46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632660716164:android:c506279cbe22ed2906b0d1",
+        "android_client_info": {
+          "package_name": "com.example.mision_fiesta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEs9ceRZ1AO-ct3uByglWiV1f543MGB8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
