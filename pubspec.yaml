@@ -32,9 +32,10 @@ dependencies:
     sdk: flutter
   firebase_core: ^4.2.1      # El núcleo de Firebase
   cloud_firestore: ^6.1.0     # La base de datos
-  intl: ^0.20.2               # Para formato de fechas
+  intl: ^0.20.0               # Para formato de fechas
   pdf: ^3.10.4        # El motor de creación de documentos
   printing: ^5.11.1   # El gestor de impresión y compartir
+  table_calendar: ^3.0.9
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -44,8 +45,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   # 👇 Estas son las librerías (llevan 2 espacios de sangría)
-  flutter_lints: ^2.0.0
-  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
   flutter_native_splash: ^2.3.7
 
 # ==========================================
